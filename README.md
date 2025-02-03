@@ -1,5 +1,5 @@
 # Hey Everyone! I'm [Chris Tancred](https://github.com/ctancred)
-<br><br><div style="display:flex; justify-content: center">
+<br><br><div style="display:flex; justify-content: center; gap: 1rem">
 <a href="https://www.linkedin.com/in/christancred/">
   <img align="left" alt="Chris' Linkdein" height="30" width="90px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
