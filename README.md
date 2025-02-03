@@ -1,5 +1,5 @@
 # Hey Everyone! I'm [Chris Tancred](https://github.com/ctancred)
-<br><br><div style="display:flex; justify-content: center; gap: 1rem">
+<br><br><div style="display:flex; justify-content: center; gap: 1rem; text-align:center">
 <a href="https://www.linkedin.com/in/christancred/">
   <img align="left" alt="Chris' Linkdein" height="30" width="90px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -20,9 +20,8 @@
 
 ## <p align="center"><h4 align="center"><samp> A Full Stack Developer, Cloud Engineer, Telephony Developer, Problem Solver & Unnecessary Meeting Avoider</samp></h4></p>
 
-<div style="display:flex">
 
-<div style="flex-grow:1">
+<div>
 
 - 👷 <samp><b>Full Stack Developer @ Ingka IKEA</b>
 - 💼 <samp><b>CEO @ Thinktanc Limited</b>
@@ -31,10 +30,9 @@
 - 🤔 <samp>I’m looking for help with how to excel in IoS & Android App Development
 - 🏊 <samp>Fun fact: I'm a qualified lifeguard
 </div>
-<div style="padding:1rem 2rem"><img src="./imgs/developer.gif" height="175px" width="175px"></div>
-</div>
 
-<hr />
+
+##
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
@@ -102,14 +100,15 @@ Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=NuGet&logoColor=white)
 
-<hr>
+##
 <h3><b><samp>Cloud & Hosting Platforms</samp></b></h3>
 
 ![Azure Cloud Platform](https://img.shields.io/badge/Azure_Cloud_Platform-4285F4?style=flat-square&logo=Azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=Wix&logoColor=white) 
-<hr>
+
+##
 <h3><b><samp>DevOps, API Testing & Project Management</samp></b></h3>
 
 Project Management & Issue Tracking
@@ -125,12 +124,14 @@ Monitoring & Debugging
 
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white) 
-<hr>
+
+##
 <h3><b><samp>UI/UX & Design</samp></b></h3>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white)
-<hr>
+
+##
 <h3><b><samp>Mapping & Analytics</samp></b></h3>
 
 Mapping & Location Services
@@ -140,12 +141,14 @@ Mapping & Location Services
 Analytics & Tracking
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white)
-<hr>
+
+##
 <h3><b><samp>Browser Extensions & Scripting</samp></b></h3>
 
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat-square&logo=Tampermonkey&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
-<hr>
+
+##
 <h3><b><samp>Progressive Web Apps & Build Tools</samp></b></h3>
 
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white)
@@ -162,9 +165,8 @@ Analytics & Tracking
 </a>
   </span> -->
   
-<hr>
- 
- 
+##
+  
 <br>
 
 
@@ -175,11 +177,7 @@ Analytics & Tracking
 </a>
 </p>
 
-### 🔖 Holopins:
-  
-[![@ctancred's Holopin board](https://holopin.io/api/user/board?user=ctancred)](https://holopin.io/@ctancred)
-<hr>
-<br>  
+##
 
 ### 🤹🏼 Other Notable Skills:
 - Photoshop<br>
@@ -188,7 +186,7 @@ Analytics & Tracking
 - Cisco Telephony<br>
 - Genesys Telehpony (Interactive Intelligence)
 
-<hr>
+##
 
 ### 📚 Learning Platforms
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
