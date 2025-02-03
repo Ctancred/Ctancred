@@ -197,3 +197,21 @@ Analytics & Tracking
 
   
 ![](https://github.com/ctancred/ctancred/blob/main/imgs/bottom_header.svg)
+
+##
+
+### 🎯 What Do I Do When I'm Not Coding?  
+
+When I'm not deep in code, you’ll probably find me doing one of the following:  
+
+- 🚶 **Walking** – Working toward my goal of averaging over 10,000 steps a day by the end of 2025.
+- 🏀 **Basketball** – Playing in the Nene Valley Basketball League in Peterborough.  
+- ⛳ **Golf** – Competing with friends, practicing at the range, and taking lessons to improve. Favorite course played: South Molle Island in the Whitsundays.  
+- 🏋️ **Gym** – Strength training and staying active.  
+- 📺 **Series Binger** – Binging favorites like *Norsemen, Brooklyn Nine-Nine, Superstore, New Girl,* and *Lost*.  
+- 🏉 **Rugby** – Keeping up with the sport and enjoying the intensity.  
+- 🏎️ **Formula 1** – Following races, drivers, and all the drama that comes with it.  
+- ₿ **Crypto Enthusiast** – Trading, investing, and staying up-to-date with blockchain tech.  
+- 🎸 **Music & Instruments** – Played guitar for over 10 years (still a novice). Currently dreaming of learning *Money for Nothing*. Also dabbling with banjo, bass, ukulele, Little Martin acoustic, electric, and semi-acoustic guitar. Once played bass at my teenage talent show.  
+- 🎬 **Video & Photo Editing** – Experimenting with editing, previously tried a short-form series while upgrading my car.  
+- 🎥 **YouTube & Drone Photography** – Uploading drone footage, flying for fun, and capturing unique perspectives.  
