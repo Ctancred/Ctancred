@@ -37,9 +37,9 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Local Product Specialist (Full Stack Engineer) @ Ingka IKEA</samp><br>
-- 🔬 <samp>Freelance Web Developer</samp><br>
-- 🔬 <samp>Freelance Video Editor</samp><br>
-- 🔬 <samp>Freelance Graphic Designer</samp><br>
+- 🕸️ <samp>Freelance Web Developer</samp><br>
+- 📹 <samp>Freelance Video Editor</samp><br>
+- 💻 <samp>Freelance Graphic Designer</samp><br>
 </div>
 
 ##
@@ -180,11 +180,11 @@ Analytics & Tracking
 ##
 
 ### 🤹🏼 Other Notable Skills:
-- Photoshop<br>
-- Premier Pro<br>
-- After Effects<br>
-- Cisco Telephony<br>
-- Genesys Telehpony (Interactive Intelligence)
+- 📷 Photoshop<br>
+- 📹 Premier Pro<br>
+- 🌌 After Effects<br>
+- 📞 Cisco Telephony<br>
+- ☎️ Genesys Telehpony (Interactive Intelligence)
 
 ##
 
@@ -194,9 +194,6 @@ Analytics & Tracking
 ![Secure Code Warrior](https://img.shields.io/badge/Secure_Code_Warrior-FFBE13?style=flat-square&logo=&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white)
 ![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white)
-
-  
-![](https://github.com/ctancred/ctancred/blob/main/imgs/bottom_header.svg)
 
 ##
 
@@ -215,3 +212,5 @@ When I'm not deep in code, you’ll probably find me doing one of the following:
 - 🎸 **Music & Instruments** – Played guitar for over 10 years (still a novice). Currently dreaming of learning *Money for Nothing*. Also dabbling with banjo, bass, ukulele, Little Martin acoustic, electric, and semi-acoustic guitar. Once played bass at my teenage talent show.  
 - 🎬 **Video & Photo Editing** – Experimenting with editing, previously tried a short-form series while upgrading my car.  
 - 🎥 **YouTube & Drone Photography** – Uploading drone footage, flying for fun, and capturing unique perspectives.  
+
+![](https://github.com/ctancred/ctancred/blob/main/imgs/bottom_header.svg)
