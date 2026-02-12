@@ -61,6 +61,7 @@ Front-end Frameworks & Libraries
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
 
 Back-end & API Development
+
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
@@ -81,9 +82,13 @@ Markup / Styles / Data stuff
 ##
 <h3><b><samp>Learning & Exploration</samp></b></h3>
 
-Currently Learning<br /><br />
+Currently Learning<br />
+
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?tyle=flat-squarelogo=swift&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode)
 
 ##
 <h3><b><samp>Development Tools & Version Control</samp></b></h3>
@@ -208,7 +213,7 @@ Analytics & Tracking
 
 When I'm not deep in code, you’ll probably find me doing one of the following:  
 
-- 🚶 **Walking** – Working toward my goal of averaging over 10,000 steps a day by the end of 2025.
+- 🚶 **Walking** – After averaging over 10,000 miles a day in 2025, I'm trying to break that in 2026.
 - 🏀 **Basketball** – Playing in the Nene Valley Basketball League in Peterborough.  
 - ⛳ **Golf** – Competing with friends, practicing at the range, and taking lessons to improve. Favorite course played: South Molle Island in the Whitsundays.  
 - 🏋️ **Gym** – Strength training and staying active.  
