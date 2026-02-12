@@ -46,35 +46,42 @@
 <h3><b><samp>Programming Languages & Frameworks</samp></b></h3>
 
 Languages<br /><br />
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/MSSQL-4479A1?style=flat-square&logo=MicrosoftSQL&logoColor=white)
 ![C](https://img.shields.io/badge/C_Sharp-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/MSSQL-4479A1?style=flat-square&logo=MicrosoftSQL&logoColor=white)
+
+Front-end Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=flat-square&logo=tailwindcss)
+![MUI](https://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=Mui&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
+
+Back-end & API Development
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+Conversational / specialised platform
+
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=Dialogflow&logoColor=white)
+
+Markup / Styles / Data stuff
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
 
-Front-end Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=Mui&logoColor=white)
-
-Back-end & API Development
-
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=Dialogflow&logoColor=white)
-
-
 
 ##
 <h3><b><samp>Learning & Exploration</samp></b></h3>
 
 Currently Learning<br /><br />
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
